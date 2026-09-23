@@ -4,3 +4,6 @@ Answer: is makes workflow on projects streamlined and much easier for both solo 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: marketing, user data on advertisements is extremly useful for optimization.
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging combines two branches and creates a new commit and rebasing takes commits from your branch and replays them on the target branch
