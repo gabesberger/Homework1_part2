@@ -7,3 +7,6 @@ Answer: marketing, user data on advertisements is extremly useful for optimizati
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: merging combines two branches and creates a new commit and rebasing takes commits from your branch and replays them on the target branch
+Q4: What are you looking forward to this semester?
+
+Answer: it being over
