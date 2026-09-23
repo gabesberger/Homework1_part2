@@ -1,3 +1,6 @@
 Q1: Why might we consider using Git?
 
 Answer: is makes workflow on projects streamlined and much easier for both solo and group projects. in the real world many jobs use github for their development.
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: marketing, user data on advertisements is extremly useful for optimization.
